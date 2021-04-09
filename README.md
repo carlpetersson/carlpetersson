@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @carlpetersson
+- 👀 I’m interested in technology and cars.
+- 🌱 I’m currently learning github.
+- 📫 You can reach me via my webpage.
